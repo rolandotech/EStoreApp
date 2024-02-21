@@ -1,8 +1,8 @@
 # EStoreApp
 
 ## Things use to create the app
-node.js: 18.17.4,
-JDK: 17.0.2
+- node.js: 18.17.4,
+- JDK: 17.0.2
 
 ## Proceedures
 
